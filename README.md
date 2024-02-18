@@ -5,12 +5,11 @@ Brief description or introduction of your project.
 ## Table of Contents
 
 - [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+  -[![Contributors][contributors-shield]][contributors-url]
+  -[![Forks][forks-shield]][forks-url]
+  -[![Stargazers][stars-shield]][stars-url]
+  -[![Issues][issues-shield]][issues-url]
+  -[![MIT License][license-shield]][license-url]
 
 ## About
 
