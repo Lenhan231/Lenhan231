@@ -1,6 +1,6 @@
 <div align="center">
   
-# Welcome to [Le Trong Nhan]'s GitHub Profile 👋
+# Welcome to Le Trong Nhan's GitHub Profile 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
   
@@ -8,10 +8,22 @@
 
 ## About Me ℹ️
 
-I'm [Your Name], a passionate developer interested in [Your Interests]. I love to explore new technologies and contribute to exciting projects. Currently, I'm focusing on [Your Current Focus].
+I'm Nhan, a passionate developer
 
 ## Skills 🛠️
 
-- Programming Languages: [List Languages]
-- Technologies & Frameworks: [List Technologies]
-- Tools & Platfo
+- Programming Languages: Python
+
+## Projects 🚀
+## Connect with Me 🌐
+
+You can find me on various platforms:
+
+- [YouTube]([Your YouTube Profile Link](https://www.youtube.com/channel/UCbRXqA4IgNilVtWVgV8fwPQ))
+- [Facebook]([Your Facebook Profile Link](https://www.facebook.com/tuan.letuan.501))
+
+## Let's Connect! 📫
+
+If you have any questions or just want to chat, feel free to reach out to me at [nhanle221199@gmail.com].
+
+Happy coding! 💻
