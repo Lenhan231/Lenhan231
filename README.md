@@ -19,8 +19,8 @@ I'm Nhan, a passionate developer
 
 You can find me on various platforms:
 
-- [YouTube]([Your YouTube Profile Link](https://www.youtube.com/channel/UCbRXqA4IgNilVtWVgV8fwPQ))
-- [Facebook]([Your Facebook Profile Link](https://www.facebook.com/tuan.letuan.501))
+- [YouTube]([Le Trong Nhan](https://www.youtube.com/channel/UCbRXqA4IgNilVtWVgV8fwPQ))
+- [Facebook]([Le Trong Nhan](https://www.facebook.com/tuan.letuan.501))
 
 ## Let's Connect! 📫
 
