@@ -2,7 +2,7 @@
   
 # Welcome to Le Trong Nhan's GitHub Profile 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Lenhan231&color=blue)
   
 </div>
 
