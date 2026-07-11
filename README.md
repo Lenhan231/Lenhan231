@@ -19,4 +19,4 @@ Building Data Engineering projects.
 ## Projects
 
 - Real Estate Data Pipeline
-- CV Assistant
+- CV Job Search Assistant
