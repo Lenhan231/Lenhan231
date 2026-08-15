@@ -5,8 +5,6 @@ AI Student @ FPT University
 Interested in
 
 - Data Engineering
-- Cloud
-- AI Systems
 
 ## Tech Stack
 
