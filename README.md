@@ -18,3 +18,4 @@ Building Data Engineering projects.
 
 - Real Estate Data Pipeline
 - CV Job Search Assistant
+- RAG for enterprise Knowledge
