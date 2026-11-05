@@ -5,6 +5,7 @@ AI Student @ FPT University
 Interested in
 
 - Data Engineering
+- AI Engineering
 
 ## Tech Stack
 
@@ -12,7 +13,7 @@ Python • SQL • Docker • Linux
 
 ## Current Focus
 
-Building Data Engineering projects.
+Building Data Engineering projects. AI application. Processing documents for downstream.
 
 ## Projects
 
